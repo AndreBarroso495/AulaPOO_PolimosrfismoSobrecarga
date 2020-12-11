@@ -11,7 +11,6 @@ namespace AulaPOO_PolimosrfismoSobrecarga
             Funcionarios fun = new Funcionarios();
             fun.Mostrar(3);
 
-            Console.Beep();
         }
     }
 }
